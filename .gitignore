@@ -1,0 +1,21 @@
+# Media folders (keep raw and rendered videos local)
+clips/
+output_reels/
+*.mp4
+*.mov
+*.mp3
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+.venv-1/
+venv/
+env/
+
+# Environment variables & secrets
+.env
+
+# OS junk files
+.DS_Store
+Thumbs.db
