@@ -14,8 +14,8 @@ A lightweight Python automation tool that turns raw screen recordings into ready
 
 1. **Clone the repository and enter the folder:**
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-folder>
+   git https://github.com/Auroriadigitalforge/auto-reel-prep.git
+   cd auto-reel-prep
    ```
 
 2. **Install dependencies:**
